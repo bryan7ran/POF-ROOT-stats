@@ -8,3 +8,6 @@ Submit a PR if you have other stats to share.
 
 # Major Statistical Assumptions
 * All traits have equal re-roll chance along a normal distribution
+
+# Statistical Evidence
+* A re-roll does not necessarily roll onto a new trait
