@@ -66,3 +66,37 @@ Giver
 Hyperactive
 Handsome
 Genetic Mutation
+Studly
+Old at Heart
+Joyful
+Constipated
+Taker
+Surly
+Virile
+Taker
+Regular
+Constipated
+Plain
+Joyful
+Taker
+Loyal
+Stressed
+Sparkling
+Whimsical
+Slowpoke
+Studly
+Loyal
+Hyperactive
+Constipated
+Sickly
+Loyal
+Genetic Inferiority
+Giver
+Plain
+Loyal
+Surly
+Sparkling
+Stressed
+Producer
+Loyal
+Genetic Mutation
