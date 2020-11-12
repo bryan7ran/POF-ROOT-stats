@@ -100,3 +100,13 @@ Stressed
 Producer
 Loyal
 Genetic Mutation
+Producer
+Sullen
+Producer
+Stressed
+Sickly
+Studly
+Plain
+Big Boned
+Hyperactive
+Genetic Mutation
